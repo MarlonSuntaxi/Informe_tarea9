@@ -367,6 +367,8 @@ b)
 
 4.-Video
 
+https://youtu.be/IKTxdQGeqAw
+
 5-.Conclusiones 
 
 Se analizó y aplico los métodos expuestos en los capítulos diecisiete  y dieciocho.
@@ -378,6 +380,3 @@ Se determinó la impedancia de un circuito RLC en serie.
 6.-Bibliografía
 
 Olmo, D. (26 de Julio de 2016). Hyperphysics. Obtenido de Hyperphysics: http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/serres.html#:~:text=La%20resonancia%20de%20un%20circuito,%C3%BAtil%20en%20aplicaciones%20de%20sintonizaci%C3%B3n.
-
-
-
