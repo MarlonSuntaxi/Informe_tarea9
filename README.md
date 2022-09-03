@@ -1,6 +1,6 @@
 # Informe_tarea9
 
-1.Objetivos
+1-.Objetivos
 
 General 
 
@@ -14,7 +14,7 @@ Identificar circuitos RLC en serie.
 
 Determinar la impedancia de un circuito RLC en serie.
 
-2.Marco teórico
+2.-Marco teórico
 
 ![image](https://user-images.githubusercontent.com/105823435/188251971-a320d363-b87f-4d4b-8fa7-cd73a912695c.png)
 ![image](https://user-images.githubusercontent.com/105823435/188251980-f7601bd4-f928-49f3-80c6-12b86ab55dec.png)
